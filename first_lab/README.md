@@ -74,7 +74,7 @@ Copy ```job_opt_min.opt``` to the new ```job_localized.mop``` and add *LOCALIZE 
 The output in Jmol shows that there 32 molecular orbitals, 1-16 are occuped, 17-32 are empty.
 
 But there types of occuped:
-1. -20.6529 eV &sigma C-C bound
+1. -20.6529 eV &sigma; C-C bound
 
 
 
