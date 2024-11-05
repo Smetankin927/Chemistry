@@ -41,7 +41,7 @@ And below we can see that all frequences are positive
 
                  1 B3u     1 B2g     1 Au      1 Ag      1 B3g     2 B3u     1 B1g     1 B1u 
 
-                 -20.1     332.4     346.8     514.9     567.4     717.5     818.9     870.6
+                  65.0     339.4     346.4     514.8     567.4     720.3     818.5     870.6
 ```
 
 shows us that we reach the minimum. Another output contain imaginary frequency again.
