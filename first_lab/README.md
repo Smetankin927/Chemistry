@@ -80,6 +80,6 @@ But there 4 types of occuped:
 4. &sigma;  in single C-H bound where two H atoms  -16.6449 eV
 5. &pi;  in double C-C bound  -10.5791 eV
 
-   You can find them in *job_localized_<number>.jpg*
+   You can find them in *job_localized_number.jpg*
 
 
