@@ -63,7 +63,7 @@ LUMO: 1.1796 eV
 GAP: 10.3392 eV
 
 <div>
-<img src="https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/HOMO.jpg" width="250">
-<img src="https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/LUMO.jpg" width="250">
+<img src="https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/HOMO.jpg" width="500">
+<img src="https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/LUMO.jpg" width="500">
 </div>
 
