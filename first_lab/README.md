@@ -78,6 +78,6 @@ But there 4 types of occuped:
 2. &sigma;  in single C-C bound  -17.8685 eV
 3. &sigma;  in single C-H bound  -17.3245 eV
 4. &sigma;  in single C-H bound where two H atoms  -16.6449 eV
-5. 1. &pi;  in double C-C bound  -10.5791 eV
+5. &pi;  in double C-C bound  -10.5791 eV
 
 
