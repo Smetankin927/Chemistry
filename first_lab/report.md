@@ -52,4 +52,4 @@ Lets visualise our optimised geometry ```job_opt_min.mop``` (data is taken from 
 
 <img src="https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/job_opt_min.jpg" width="250">
 
-
+## HOMO-LUMO
