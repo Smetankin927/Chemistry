@@ -1,4 +1,5 @@
-## The optimisation of geometry was done in two steps:
+## Geometry optimisation
+The optimisation of geometry was done in two steps:
 
 1. optimisation, ussing Avogadro openbabel tool (without this step mopac performs badly)
 
