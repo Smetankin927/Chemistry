@@ -47,3 +47,5 @@ And below we can see that all frequences are positive
 shows us that we reach the minimum. Another output contain imaginary frequency again. 
 
 Lets visualise our optimised geometry ```job_opt_min.mop``` (data is taken from the *job_force_afterIRC_last_opt_force* file.)
+
+![img](https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/job_opt_min.jpg)
