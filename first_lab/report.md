@@ -15,4 +15,4 @@ ENERGY IS NOT MEANINGFULL. ZERO POINT ENERGY PRINTED
 DOES NOT INCLUDE THE  1 IMAGINARY FREQUENCIES
 ```
 
-according to [link](https://www.sparkle.pro.br/tutorial/geometry) it means that our geometry not in true ground state. We should use we must use the keyword **IRC=1* **
+according to [link](https://www.sparkle.pro.br/tutorial/geometry) it means that our geometry not in true ground state. We should use we must use the keyword **IRC=1*
