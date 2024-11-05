@@ -20,4 +20,19 @@ according to [link](https://www.sparkle.pro.br/tutorial/geometry) it means that 
 Creating another file ```job_force_isr.mop``` and adding **IRC=1*** key, we obtain ```job_force_isr.xyz``` file with a series of geometries distorted to either side of the maximum. 
 We choose 1st and last ~~just because~~ and create files ```job_force_afterIRC_first.mop``` and ```job_force_afterIRC_last.mop```, and reoptimize geometry for both (files ```.arc```). 
 
-Then calculate **FORCE** for both using their ```.arc``` files (```job_force_afterIRC_first_opt_force.mop```, ```job_force_afterIRC_last_opt_force.mop```)
+Then calculate **FORCE** for both using their ```.arc``` files 
+1. ```job_force_afterIRC_first_opt_force.mop```
+2.  ```job_force_afterIRC_last_opt_force.mop``` :
+
+   output ``job_force_afterIRC_last_opt_force.mop```
+
+```
+HEAT OF FORMATION =      19.978696 KCALS/MOLE
+
+ZERO POINT ENERGY      72.959 KCAL/MOL
+
+
+NORMAL COORDINATE ANALYSIS (Total motion = 1 Angstrom)
+```
+
+shows us that we reach the minimum. Another output contain imaginary frequency again.
