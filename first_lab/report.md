@@ -44,4 +44,6 @@ And below we can see that all frequences are positive
                   65.0     339.4     346.4     514.8     567.4     720.3     818.5     870.6
 ```
 
-shows us that we reach the minimum. Another output contain imaginary frequency again.
+shows us that we reach the minimum. Another output contain imaginary frequency again. 
+
+Lets visualise our optimised geometry ```job_opt_min.mop``` (data is taken from the *job_force_afterIRC_last_opt_force* file.)
