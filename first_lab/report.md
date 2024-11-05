@@ -36,7 +36,8 @@ NORMAL COORDINATE ANALYSIS (Total motion = 1 Angstrom)
 ```
 And below we can see that all frequences are positive
 
-```Root No.       1         2         3         4         5         6         7         8
+```
+Root No.       1         2         3         4         5         6         7         8
 
                  1 B3u     1 B2g     1 Au      1 Ag      1 B3g     2 B3u     1 B1g     1 B1u 
 
