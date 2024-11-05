@@ -82,4 +82,5 @@ But there 4 types of occuped:
 
    You can find them in *job_localized_number.jpg*
 
+## Triplet state
 
