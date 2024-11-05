@@ -4,7 +4,7 @@ The optimisation of geometry was done in two steps:
 
 2. using mopac package and **PM7 EF GNORM=0.01 GRAPHF ESP** command, where **GNORM** reponsible for gradient norm dropping below 0.01 kcal/mol/Ångstrom during geometry optimization.
 
-The output of Avogadro editor is contained in ```job.mop file```. The opimised geometry we obtain in ```job.arc``` file.
+The output of Avogadro editor is contained in ``job.mop file``. The opimised geometry we obtain in ```job.arc``` file.
 Then new geometry was used for **FORCE** calculation in file ```job_force.mop```. But we have a problem: in ```job_force.out``` file
 
 ```
