@@ -24,7 +24,7 @@ Then calculate **FORCE** for both using their ```.arc``` files
 1. ```job_force_afterIRC_first_opt_force.mop```
 2.  ```job_force_afterIRC_last_opt_force.mop``` 
 
- Output ```job_force_afterIRC_last_opt_force.mop```
+ Output ```job_force_afterIRC_last_opt_force.out```
 
 ```
 HEAT OF FORMATION =      19.978696 KCALS/MOLE
@@ -33,6 +33,14 @@ ZERO POINT ENERGY      72.959 KCAL/MOL
 
 
 NORMAL COORDINATE ANALYSIS (Total motion = 1 Angstrom)
+```
+And below we can see that all frequences are positive
+
+```Root No.       1         2         3         4         5         6         7         8
+
+                 1 B3u     1 B2g     1 Au      1 Ag      1 B3g     2 B3u     1 B1g     1 B1u 
+
+                 -20.1     332.4     346.8     514.9     567.4     717.5     818.9     870.6
 ```
 
 shows us that we reach the minimum. Another output contain imaginary frequency again.
