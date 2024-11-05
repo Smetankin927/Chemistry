@@ -18,4 +18,4 @@ DOES NOT INCLUDE THE  1 IMAGINARY FREQUENCIES
 according to [link](https://www.sparkle.pro.br/tutorial/geometry) it means that our geometry not in true ground state. We should use we must use the keyword **IRC=1***.
 
 Creating another file ```job_force_isr.mop``` and adding **IRC=1*** key, we obtain ```job_force_isr.xyz``` file with a series of geometries distorted to either side of the maximum. 
-We choose 1st and last ~~just because~~ and create files ```job_force_afterIRC_first.mop``` and ```job_force_afterIRC_last.mop```, calculate **FORCE** for both
+We choose 1st and last ~~just because~~ and create files ```job_force_afterIRC_first.mop``` and ```job_force_afterIRC_last.mop```, and reoptimize geometry for both. Then calculate **FORCE** for both
