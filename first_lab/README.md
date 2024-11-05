@@ -57,5 +57,8 @@ Lets visualise our optimised geometry ```job_opt_min.mop``` (data is taken from 
 For this section use Jmol and ``````job_opt_min.mgf`````` file. Useful [link](https://youtu.be/RVSUvm19qPI?si=0ia_mrCdISK7dBuR)
 
 HOMO: -9.1596 eV
+<div>
+<img src="https://raw.githubusercontent.com/Smetankin927/Chemistry/refs/heads/main/first_lab/job_opt_min.jpg" width="250">
+</div>
 LUMO: 1.1796 eV
 GAP: 10.3392 eV
