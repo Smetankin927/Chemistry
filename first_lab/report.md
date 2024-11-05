@@ -22,9 +22,9 @@ We choose 1st and last ~~just because~~ and create files ```job_force_afterIRC_f
 
 Then calculate **FORCE** for both using their ```.arc``` files 
 1. ```job_force_afterIRC_first_opt_force.mop```
-2.  ```job_force_afterIRC_last_opt_force.mop``` :
+2.  ```job_force_afterIRC_last_opt_force.mop``` 
 
-   output ``job_force_afterIRC_last_opt_force.mop```
+ Output ``job_force_afterIRC_last_opt_force.mop```
 
 ```
 HEAT OF FORMATION =      19.978696 KCALS/MOLE
