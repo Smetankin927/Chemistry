@@ -68,3 +68,6 @@ GAP: 10.3392 eV
 </div>
 
 ## Localized Molecular orbitals
+
+Copy ```job_opt_min.opt``` to the new ```job_localized.mop``` and add *LOCALIZE ALLVEC* keywords
+
